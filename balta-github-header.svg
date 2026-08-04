@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Balta company GitHub header</title>
+  <desc id="desc">Balta Tech wordmark on a warm beige grid with an orange block illustration.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.62"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#F8EFE4"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect x="76" y="80" width="76" height="76" rx="10" fill="#F2B26F" stroke="#2B2018" stroke-width="6"/>
+  <rect x="98" y="102" width="32" height="32" rx="4" fill="#E79C54" stroke="#2B2018" stroke-width="5"/>
+  <text x="184" y="132" fill="#2B2018" font-family="Space Grotesk, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Balta Tech</text>
+  <text x="184" y="174" fill="#6A5647" font-family="DM Sans, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">PRODUCTS / OPERATIONS / INTEGRATIONS</text>
+  <g transform="translate(846 66)">
+    <rect x="0" y="40" width="108" height="108" rx="14" fill="#F3E2CC" stroke="#2B2018" stroke-width="6"/>
+    <rect x="64" y="0" width="108" height="108" rx="14" fill="#E79C54" stroke="#2B2018" stroke-width="6"/>
+    <rect x="64" y="40" width="44" height="68" fill="#F2B26F" stroke="#2B2018" stroke-width="6"/>
+    <path d="M88 74H142M128 58L144 74L128 90" stroke="#2B2018" stroke-width="8"/>
+  </g>
+  <text x="1124" y="250" text-anchor="end" fill="#6A5647" font-family="DM Sans, Arial, sans-serif" font-size="18">Practical software, built to last.</text>
+</svg>
