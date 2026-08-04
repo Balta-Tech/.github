@@ -1,6 +1,6 @@
 ![Balta Tech - practical software, built to last](./assets/balta-github-header.svg)
 
-# Balta
+# Balta Tech
 
 We build practical software, integrations, and digital products with clear scope and reliable delivery.
 
