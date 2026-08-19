@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 13 565 727" role="img" aria-labelledby="title desc">
+  <title id="title">Balta Tech Rounded Confluence mark</title>
+  <desc id="desc">An orange upper form and charcoal lower form meet to complete a rounded letter B.</desc>
+  <g fill-rule="evenodd" clip-rule="evenodd">
+    <path fill="#FFB45C" d="M12 13h364c111 0 201 90 201 201s-90 202-201 202H12V13Zm128 131v167h236c43 0 72-36 72-83s-29-84-72-84H140Z"/>
+    <path fill="#20282D" d="M12 311h364c111 0 201 90 201 201v27c0 111-90 201-201 201H12V311Zm128 130v168h236c43 0 72-37 72-84s-29-84-72-84H140Z"/>
+    <path fill="#FFB45C" d="M12 268h128v18c0 16 12 25 29 25h79c32 0 56 33 56 74 0 31-25 56-56 56h-94C76 441 12 389 12 322v-54Z"/>
+  </g>
+</svg>
