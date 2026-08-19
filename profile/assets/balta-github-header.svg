@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Balta Tech</title>
-  <desc id="desc">The Rounded Confluence mark and Balta Tech wordmark on a charcoal field.</desc>
+  <desc id="desc">The Rounded Confluence mark forms the first letter of the Balta Tech wordmark on a charcoal field.</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" stroke="#FFF8EF" stroke-opacity=".055"/>
@@ -8,13 +8,13 @@
   </defs>
   <rect width="1200" height="300" rx="24" fill="#20282D"/>
   <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <g transform="translate(84 58) scale(.218) translate(-12 -13)" fill-rule="evenodd" clip-rule="evenodd">
+  <g transform="translate(84 121) scale(.132) translate(-12 -13)" fill-rule="evenodd" clip-rule="evenodd">
     <path fill="#FFB45C" d="M12 13h364c111 0 201 90 201 201s-90 202-201 202H12V13Zm128 131v167h236c43 0 72-36 72-83s-29-84-72-84H140Z"/>
     <path fill="#FFF8EF" d="M12 311h364c111 0 201 90 201 201v27c0 111-90 201-201 201H12V311Zm128 130v168h236c43 0 72-37 72-84s-29-84-72-84H140Z"/>
     <path fill="#FFB45C" d="M12 268h128v18c0 16 12 25 29 25h79c32 0 56 33 56 74 0 31-25 56-56 56h-94C76 441 12 389 12 322v-54Z"/>
   </g>
-  <text x="234" y="217" fill="#FFF8EF" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="600" letter-spacing="-4.5">Balta Tech</text>
-  <text x="88" y="260" fill="#FFB45C" font-family="DM Sans, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3.6">SOFTWARE · INTEGRATIONS · PRODUCT DELIVERY</text>
+  <text x="171" y="217" fill="#FFF8EF" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="600" letter-spacing="-4.5">alta Tech</text>
+  <text x="84" y="260" fill="#FFB45C" font-family="DM Sans, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3.6">SOFTWARE · INTEGRATIONS · PRODUCT DELIVERY</text>
   <g stroke-linecap="round" stroke-width="14">
     <path d="M1020 62C1020 112 1060 115 1060 150" stroke="#FFB45C"/>
     <path d="M1100 62C1100 112 1060 115 1060 150" stroke="#FFF8EF"/>
